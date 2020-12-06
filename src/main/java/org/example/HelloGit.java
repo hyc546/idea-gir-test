@@ -10,5 +10,6 @@ public class HelloGit
     {
         System.out.println( "Hello World!" );
         System.out.println("我是在dev分支下写的");
+        System.out.println("成功从dev分支推送到远端！");
     }
 }
